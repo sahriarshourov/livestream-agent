@@ -37,5 +37,30 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 =======
 # livestream-agent
+<<<<<<< HEAD
 A full-featured SaaS application built with Next.js 15.
 >>>>>>> 05d0b0e (Initial commit)
+=======
+A full-featured SaaS application built with Next.js 15, integrating AI sales agents, live webinar streaming, user authentication, and payment processing.
+
+## Features
+
+- 🎥 Live Webinar Streaming with Stream
+- 🤖 AI Sales Agents powered by Vapi AI
+- 🔐 User Authentication via Clerk
+- 💳 Payment Processing using Stripe
+- 🗄️ Database Management with Prisma & Neon
+- 🚀 Deployment with Docker on Hostinger VPS
+
+## Technologies Used
+
+- Next.js 15
+- Vapi AI
+- Clerk
+- Stream
+- Prisma
+- Neon
+- Stripe
+- Docker
+- Coolify
+>>>>>>> d792610 (Update README.md)
