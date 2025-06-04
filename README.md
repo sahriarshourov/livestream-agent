@@ -63,4 +63,4 @@ A full-featured SaaS application built with Next.js 15, integrating AI sales age
 - Stripe
 - Docker
 - Coolify
->>>>>>> d792610 (Update README.md)
+
