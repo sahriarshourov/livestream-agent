@@ -11,7 +11,7 @@ const manrope = Manrope({
 
 export const metadata: Metadata = {
   title: "Live-Stream Agent",
-  description: "My Personal PS",
+  description: "Your Video Agent",
 };
 
 export default function RootLayout({
